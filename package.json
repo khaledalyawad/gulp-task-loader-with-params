@@ -1,0 +1,29 @@
+{
+  "name": "gulp-task-loader-with-params",
+  "version": "1.0.0",
+  "description": "This is a plugin that helps you breaking down tasks into files and pass to it a parameter",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaledalyawad/gulp-task-loader-with-params.git"
+  },
+  "keywords": [
+    "gulp",
+    "task",
+    "loader",
+    "params"
+  ],
+  "author": "Khaled Awad <khaled@alyawad.com> (khaled.alyawad.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khaledalyawad/gulp-task-loader-with-params/issues"
+  },
+  "homepage": "https://github.com/khaledalyawad/gulp-task-loader-with-params#readme"
+}
