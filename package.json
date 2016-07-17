@@ -1,6 +1,6 @@
 {
   "name": "gulp-task-loader-with-params",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a plugin that helps you breaking down tasks into files and pass to it a parameter",
   "main": "index.js",
   "dependencies": {
